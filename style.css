@@ -1,0 +1,108 @@
+.titulo{text-align:center;
+    color: #054b45;
+}
+
+.titulos{text-align:left;
+    color: #054b45;
+    margin: 20px;
+}
+
+.paragrafo1{font-size: 23px;}
+
+body{
+    font-size: 19px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:#d8edeb;
+    color: #3a3a3a;
+}
+
+.hobbiesContainer ul li {
+    margin-bottom: 15px; 
+}
+
+.hobbiesContainer {
+    display: flex;
+    align-items: flex-start;
+    gap: 25px;
+  }
+  
+  .casal {
+    width: 300px;
+    border-radius: 10px;
+    border-radius: 8px;
+  }
+
+  .casal:hover {
+    transform: scale(1.05); 
+  }
+
+  
+table {
+    border-collapse: collapse; 
+    width: 100%; 
+    max-width: 600px; 
+    margin: 20px; 
+    background-color: #f9f9f9; 
+    border-radius: 10px; 
+    overflow: hidden; 
+}
+
+th {
+    background-color: #054b45; 
+    color: white; 
+    padding: 12px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 19px; 
+    text-align: center; 
+}
+
+
+td {
+    padding: 15px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 19px; 
+    text-align: center; 
+    border-bottom: 1px solid #ddd; 
+}
+
+td img {
+    border-radius: 8px; 
+}
+
+td img:hover {
+    transform: scale(1.05); 
+}
+
+
+.interessesUm{
+    color: blue;
+    text-decoration: none;
+}
+
+.interessesUm:hover{
+    color: red;
+}
+
+.interessesDois{
+    color: blue;
+    text-decoration: none;
+}
+
+  .interessesDois:hover{
+    color: red;
+    text-decoration: none;
+}
+
+.interessesTres{
+    color: blue;
+}
+.interessesTres:hover{
+    color: red;
+    text-decoration: none;
+}
+
+
+
+
+
+
